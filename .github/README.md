@@ -10,7 +10,7 @@
 > The following covers how to install this branch as a submodule within your own project, and parameters that `await-service-port.sh` currently responds to.
 
 
-## [![Byte size of await-service-port.sh][badge__master__await_service_port__source_code]][await_service_port__master__source_code] [![Open Issues][badge__issues__await_service_port]][issues__await_service_port] [![Open Pull Requests][badge__pull_requests__await_service_port]][pull_requests__await_service_port] [![Latest commits][badge__commits__await_service_port__master]][commits__await_service_port__master]
+## [![Byte size of await-service-port.sh][badge__master__await_service_port__source_code]][await_service_port__master__source_code] [![Open Issues][badge__issues__await_service_port]][issues__await_service_port] [![Open Pull Requests][badge__pull_requests__await_service_port]][pull_requests__await_service_port] [![Build Test Status][badge__travis_ci__await_service_port]][travis_ci__await_service_port] [![Latest commits][badge__commits__await_service_port__master]][commits__await_service_port__master]
 
 
 ------
@@ -286,6 +286,14 @@ by `jesin`
 on
 ```
 
+
+
+[badge__travis_ci__await_service_port]:
+  https://img.shields.io/travis/bash-utilities/await-service-port/example.svg
+
+[travis_ci__await_service_port]:
+  https://travis-ci.com/bash-utilities/await-service-port
+  "&#x1F6E0; Automated tests and build logs"
 
 
 [badge__commits__await_service_port__master]:

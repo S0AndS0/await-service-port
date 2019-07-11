@@ -4,7 +4,7 @@
   "&#x2B06; Top of this page"
 
 
-[`await-service-port.sh`][await_service_port__master__source_code], contains a function that returns listening ports for a given service, even if it has to wait a few seconds, and even if the listening ports are not known in advance.
+[`await-service-port.sh`][await_service_port__master__source_code], contains a function that returns listening ports for a given service, even if it has to wait a few seconds, and even if the listening ports are not known in advance; such as in the case with `librespot` service.
 
 
 > The following covers how to install this branch as a submodule within your own project, and parameters that `await-service-port.sh` currently responds to.

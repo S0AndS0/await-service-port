@@ -46,5 +46,5 @@ fi
 
 
 if ! [ "$(await_service_port 2>/dev/null)" ]; then
-  echo "Test for failur success!"
+  echo "Test for failure success!"
 fi

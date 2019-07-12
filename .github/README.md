@@ -6,6 +6,7 @@
 ## [![Open Issues][badge__issues__await_service_port]][issues__await_service_port] [![Open Pull Requests][badge__pull_requests__await_service_port]][pull_requests__await_service_port] [![Build Test Status][badge__travis_ci__await_service_port]][travis_ci__await_service_port] [![Latest commits][badge__commits__await_service_port__example]][commits__await_service_port__example]
 
 
+
 ------
 
 
@@ -14,7 +15,7 @@
 
 - [Example Usage][heading__example_usage]
 
-- [License](#license)
+- [License][heading__license]
 
 
 ------
@@ -61,11 +62,14 @@ Expect output similar to...
 ```
 #> No ports found this time
 #> No ports found this time
-#> Test for failur success!
+#> Test for failure success!
 ```
 
 
 ## License
+[heading__license]:
+  #license
+  "&#x00A9; Legal bits of Open Source software"
 
 
 ```

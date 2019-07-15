@@ -46,6 +46,7 @@ await_service_port(){
     local -a _listen_ports
     while true; do
         while IFS= read -r _port; do
+            [[ -n "${_port}" ]] || continue
             _listen_ports+=("${_port}")
         done <<<"$({ netstat -"${_netstat_opts}" | awk -v _sName="${_service_name}" '$0 ~ "/"_sName"( +|$)" {gsub(":"," "); print $5}'; } 2>/dev/null)"
 
@@ -60,5 +61,5 @@ await_service_port(){
         sleep "${_sleep_interval}"
     done
 
-    [[ "${#_ipv4_addresses[@]}" -gt '0' ]]; return "${?}"
+    [[ "${#_listen_ports[@]}" -gt '0' ]]; return "${?}"
 }

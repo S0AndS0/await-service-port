@@ -49,7 +49,7 @@
 
 
 ```Bash
-_module_https_url='https://github.com/bash-utilities/await-service-port.git'
+_module_https_url='https://github.com/network-utilities/await-service-port.git'
 _module_relative_path='modules/await-service-port'
 ```
 
@@ -173,7 +173,7 @@ git add README.md
 
 
 git commit -F- <<'EOF'
-:heavy_plus_sign: Adds bash-utilities/await-service-port dependency
+:heavy_plus_sign: Adds network-utilities/await-service-port dependency
 
 
 **Edits**
@@ -290,50 +290,50 @@ on
 
 
 [badge__travis_ci__await_service_port]:
-  https://img.shields.io/travis/bash-utilities/await-service-port/example.svg
+  https://img.shields.io/travis/network-utilities/await-service-port/example.svg
 
 [travis_ci__await_service_port]:
-  https://travis-ci.com/bash-utilities/await-service-port
+  https://travis-ci.com/network-utilities/await-service-port
   "&#x1F6E0; Automated tests and build logs"
 
 
 [badge__commits__await_service_port__master]:
-  https://img.shields.io/github/last-commit/bash-utilities/await-service-port/master.svg
+  https://img.shields.io/github/last-commit/network-utilities/await-service-port/master.svg
 
 [commits__await_service_port__master]:
-  https://github.com/bash-utilities/await-service-port/commits/master
+  https://github.com/network-utilities/await-service-port/commits/master
   "&#x1F4DD; History of changes on this branch"
 
 
 [await_service_port__community]:
-  https://github.com/bash-utilities/await-service-port/community
+  https://github.com/network-utilities/await-service-port/community
   "&#x1F331; Dedicated to functioning code"
 
 
 [await_service_port__example_branch]:
-  https://github.com/bash-utilities/await-service-port/tree/example
+  https://github.com/network-utilities/await-service-port/tree/example
   "If it lurches, it lives"
 
 
 [badge__issues__await_service_port]:
-  https://img.shields.io/github/issues/bash-utilities/await-service-port.svg
+  https://img.shields.io/github/issues/network-utilities/await-service-port.svg
 
 [issues__await_service_port]:
-  https://github.com/bash-utilities/await-service-port/issues
+  https://github.com/network-utilities/await-service-port/issues
   "&#x2622; Search for and _bump_ existing issues or open new issues for project maintainer to address."
 
 
 [badge__pull_requests__await_service_port]:
-  https://img.shields.io/github/issues-pr/bash-utilities/await-service-port.svg
+  https://img.shields.io/github/issues-pr/network-utilities/await-service-port.svg
 
 [pull_requests__await_service_port]:
-  https://github.com/bash-utilities/await-service-port/pulls
+  https://github.com/network-utilities/await-service-port/pulls
   "&#x1F3D7; Pull Request friendly, though please check the Community guidelines"
 
 
 [badge__master__await_service_port__source_code]:
-  https://img.shields.io/github/size/bash-utilities/await-service-port/await-service-port.sh.svg?label=await-service-port.sh
+  https://img.shields.io/github/size/network-utilities/await-service-port/await-service-port.sh.svg?label=await-service-port.sh
 
 [await_service_port__master__source_code]:
-  https://github.com/bash-utilities/await-service-port/blob/master/await-service-port.sh
+  https://github.com/network-utilities/await-service-port/blob/master/await-service-port.sh
   "&#x2328; Project source code!"

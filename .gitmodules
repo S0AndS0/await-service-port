@@ -1,4 +1,4 @@
 [submodule "await-service-port"]
 	path = modules/await-service-port
-	url = https://github.com/bash-utilities/await-service-port.git
+	url = https://github.com/network-utilities/await-service-port.git
 	branch = master

@@ -25,7 +25,7 @@
 - [:zap: Quick Start][heading__quick_start]
 
   - [:memo: Edit Your ReadMe File][heading__edit_your_readme_file]
-  - [&#x1F578; Example Usage][heading__example_usage]
+  - [:shell: Example Usage][heading__example_usage]
   - [:floppy_disk: Commit and Push][heading__commit_and_push]
 
 - [:scroll: API][heading__api]
@@ -113,7 +113,7 @@ Update/upgrade submodules via
 ### Example Usage
 [heading__example_usage]:
   #example-usage
-  "&#x1F578; Example of sourcing and utilize `await_service_port` features"
+  "&#x1F41A; Example of sourcing and utilize `await_service_port` features"
 
 
 Example of sourcing and utilize `await_service_port` features
